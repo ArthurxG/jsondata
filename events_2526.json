@@ -10,5 +10,17 @@
     "events": [
       "Examen de base de datos (relacional / normalización 20%)."
     ]
+  },
+  {
+    "date": "2025-11-27",
+    "events": [
+      "Examen de base de datos - E/R 80% Final"
+    ]
+  },
+  {
+    "date": "2025-11-28",
+    "events": [
+      "Examen de base de datos - Relacional 80% Final"
+    ]
   }
 ]
