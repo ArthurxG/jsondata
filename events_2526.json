@@ -2,25 +2,41 @@
   {
     "date": "2025-11-17",
     "events": [
-      "Examen entornos de desarrollo"
+      {
+        "text": "Examen de Entornos de Desarrollo - Tema 1",
+        "color": "red",
+        "type": "exam"
+      }
     ]
   },
   {
     "date": "2025-11-20",
     "events": [
-      "Examen de base de datos (relacional / normalización 20%)."
+      {
+        "text": "Examen de Base de Datos - Relacional/Normalización 20%",
+        "color": "red",
+        "type": "exam"
+      }
     ]
   },
   {
     "date": "2025-11-27",
     "events": [
-      "Examen de base de datos - E/R 80% Final"
+      {
+        "text": "Examen de Base de Datos - Relacional 80%",
+        "color": "red",
+        "type": "exam"
+      }
     ]
   },
   {
     "date": "2025-11-28",
     "events": [
-      "Examen de base de datos - Relacional 80% Final"
+      {
+        "text": "Examen de Base de Datos - E/R 80%",
+        "color": "red",
+        "type": "exam"
+      }
     ]
   }
 ]
