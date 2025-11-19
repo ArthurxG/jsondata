@@ -16,6 +16,11 @@
         "text": "Examen de Base de Datos - Relacional/Normalización 20%",
         "color": "red",
         "type": "exam"
+      },
+      {
+        "text": "Examen de Programación - Tema 3",
+        "type": "exam",
+        "color": "red"
       }
     ]
   },
