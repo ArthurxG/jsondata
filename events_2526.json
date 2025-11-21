@@ -43,5 +43,15 @@
         "type": "exam"
       }
     ]
+  },
+  {
+    "date": "2025-12-03",
+    "events": [
+      {
+        "text": "Examen de sistemas informáticos - Tema 2: Sistemas Operativos (a última hora. Estudiar teoría y ejercicios)",
+        "type": "exam",
+        "color": "red"
+      }
+    ]
   }
 ]
