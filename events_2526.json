@@ -53,5 +53,15 @@
         "color": "red"
       }
     ]
+  },
+  {
+    "date": "2026-01-12",
+    "events": [
+      {
+        "text": "Examen de entornos de desarrollo tema 3",
+        "type": "exam",
+        "color": "red"
+      }
+    ]
   }
 ]
