@@ -55,6 +55,16 @@
     ]
   },
   {
+    "date": "2025-12-12",
+    "events": [
+      {
+        "text": "Examen de Lenguaje de Marcas (maquetación, sin flex, sin float ni nada de eso, solo con márgenes usando el modelo de cajas )",
+        "type": "exam",
+        "color": "red"
+      }
+    ]
+  },
+  {
     "date": "2026-01-12",
     "events": [
       {
