@@ -61,6 +61,21 @@
         "text": "Examen de Lenguaje de Marcas (maquetación, sin flex, sin float ni nada de eso, solo con márgenes usando el modelo de cajas )",
         "type": "exam",
         "color": "red"
+      },
+      {
+        "text": "BASE DE DATOS - SIMULACRO EXAMEN DE SQL (CONSULTAS Y CREACIÓN DE USUARIOS (? )",
+        "type": "exam",
+        "color": "red"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-16",
+    "events": [
+      {
+        "text": "BASE DE DATOS - EXAMEN DE SQL",
+        "type": "exam",
+        "color": "red"
       }
     ]
   },
